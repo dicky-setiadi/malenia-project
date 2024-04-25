@@ -1,0 +1,19 @@
+{
+  "name": "cautious-winner",
+  "version": "1.0.0",
+  "description": "OSS Project for Tea Testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicky-setiadi/cautious-winner.git"
+  },
+  "author": "Dicky Setiadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dicky-setiadi/cautious-winner/issues"
+  },
+  "homepage": "https://github.com/dicky-setiadi/cautious-winner#readme"
+}
