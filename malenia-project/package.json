@@ -27,7 +27,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dicky-setiadi/malenia-project.git"
+    "url": "https://github.com/dicky-setiadi/malenia-project.git"
   },
   "author": "Dicky Setiadi",
   "license": "ISC",
